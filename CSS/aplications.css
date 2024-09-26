@@ -1,3 +1,6 @@
 .cor-vermelha{
-    color: red;
+    color: red !important ;
+}
+.selecionado{
+    box-shadow: 0px 0px 20px  white !important;
 }
